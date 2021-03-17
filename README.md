@@ -1,0 +1,2 @@
+# wgirb2_docker
+wgrib2を実行できるdocker環境を提供する
